@@ -1,4 +1,6 @@
 # Kubernetes-in-action
+![kubeinaction](https://user-images.githubusercontent.com/41745717/132219794-77ffa66c-7924-459e-8dbe-112bd14743dc.jpeg)
+
 
 |Check|Date|Chapter|Presenter|
 |:--:|:--:|--|:--:|
